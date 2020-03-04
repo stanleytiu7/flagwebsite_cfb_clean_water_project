@@ -1,0 +1,23 @@
+[13-Feb-2015 13:25:43 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home1/crwa/public_html/notification/backend/evententry.php on line 144
+[13-Feb-2015 15:30:29 America/Chicago] PHP Fatal error:  Call to undefined function read_key() in /home1/crwa/public_html/notification/backend/eventsearch.php on line 21
+[29-Jun-2015 22:38:41 America/New_York] PHP Fatal error:  Function name must be a string in /home1/crwa/public_html/notification/scripts/archive_repeatingcode.php on line 78
+[13-Aug-2015 16:33:53 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/crwa/public_html/notification/backend/testcode.php:4) in /home1/crwa/public_html/notification/backend/testcode.php on line 27
+[13-Aug-2015 16:33:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/crwa/public_html/notification/backend/testcode.php:4) in /home1/crwa/public_html/notification/backend/testcode.php on line 28
+[13-Aug-2015 16:33:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/crwa/public_html/notification/backend/testcode.php:4) in /home1/crwa/public_html/notification/backend/testcode.php on line 29
+[13-Aug-2015 16:33:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/crwa/public_html/notification/backend/testcode.php:4) in /home1/crwa/public_html/notification/backend/testcode.php on line 30
+[13-Aug-2015 16:33:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/crwa/public_html/notification/backend/testcode.php:4) in /home1/crwa/public_html/notification/backend/testcode.php on line 31
+[13-Aug-2015 16:33:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/crwa/public_html/notification/backend/testcode.php:4) in /home1/crwa/public_html/notification/backend/testcode.php on line 32
+[13-Aug-2015 16:33:54 America/New_York] PHP Warning:  filesize(): stat failed for https://www.hobolink.com/apiv2/private/data/Export_to_ReST in /home1/crwa/public_html/notification/backend/testcode.php on line 33
+[13-Aug-2015 16:33:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/crwa/public_html/notification/backend/testcode.php:4) in /home1/crwa/public_html/notification/backend/testcode.php on line 33
+[13-Aug-2015 16:33:55 America/New_York] PHP Warning:  readfile(https://www.hobolink.com/apiv2/private/data/Export_to_ReST): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home1/crwa/public_html/notification/backend/testcode.php on line 35
+[14-Aug-2015 10:37:04 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home1/crwa/public_html/notification/backend/runarchive.php on line 44
+[14-Aug-2015 11:57:17 America/New_York] PHP Warning:  fopen(https://.@www.hobolink.com/apiv2/private/data/Export_to_ReST): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home1/crwa/public_html/notification/backend/testcode.php on line 32
+[14-Aug-2015 11:58:27 America/New_York] PHP Warning:  fopen(https://.@www.hobolink.com/apiv2/private/data/Export_to_ReST): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home1/crwa/public_html/notification/backend/testcode.php on line 33
+[14-Aug-2015 11:59:00 America/New_York] PHP Warning:  fopen(https://.@www.hobolink.com/apiv2/private/data/Export_to_ReST): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home1/crwa/public_html/notification/backend/testcode.php on line 33
+[23-Jun-2017 17:48:16 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/crwa/public_html/notification/scripts/archive_wqmodel.php on line 2
+[25-Jun-2017 10:02:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$rawdb' (T_VARIABLE), expecting ',' or ';' in /home1/crwa/public_html/notification/scripts/archive_repeatingcode.php on line 211
+[25-Jun-2017 10:02:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$rawdb' (T_VARIABLE), expecting ',' or ';' in /home1/crwa/public_html/notification/scripts/archive_repeatingcode.php on line 211
